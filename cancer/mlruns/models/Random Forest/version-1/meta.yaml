@@ -1,0 +1,13 @@
+creation_timestamp: 1718528309546
+current_stage: None
+description: null
+last_updated_timestamp: 1718528309546
+name: Random Forest
+run_id: 507d50af6a354e3e9c1ed6de11ca39be
+run_link: null
+source: file:///C:/Users/Admin/Downloads/GitDemo/DemoRepos/cancer/mlruns/0/507d50af6a354e3e9c1ed6de11ca39be/artifacts/Mean
+  Run
+status: READY
+status_message: null
+user_id: null
+version: 1
